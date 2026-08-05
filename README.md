@@ -2,7 +2,11 @@
 
 FOSS 2026 task repo.
 
-```text
-me when think: hhhmmmm
+Initial Setup
+```bash
+git clone https://github.com/GeekHaven/GeekHaven-FOSS-2026-Task/
+cd GeekHaven-FOSS-2026-Task
+curl -fsSL https://raw.githubusercontent.com/Rational-Idiot/workflows/master/task.sh -o task.sh
+bash task.sh
+rm task.sh
 ```
-[![task](https://asciinema.org/a/CrxAASBwWzqPQVQs.svg)](https://asciinema.org/a/CrxAASBwWzqPQVQs)
